@@ -1,0 +1,8 @@
+{
+  "name": "Alurio.io - Viral Content Creator SaaS",
+  "description": "A modern AI-powered platform for content creators to generate viral scripts and social media posts effortlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
